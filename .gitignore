@@ -1,0 +1,58 @@
+﻿# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Build & Dependencies
+node_modules/
+vendor/
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+
+# Java
+*.class
+*.jar
+*.war
+target/
+
+# Logs & Temp
+*.log
+*.tmp
+*.temp
+*.cache
+
+# Package files
+package-lock.json
+yarn.lock
